@@ -1,3 +1,6 @@
+//This program is done by extending Thread class
+
+
 import java.util.*;
 class Hello_All extends Thread {
      private Thread th;
