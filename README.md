@@ -1,2 +1,2 @@
 # conduira
-#### Please check zip file(conduira.zip) for spring application assessment
+#### Please check zip file(Spring_Application.zip) for Rest Api assessment(CRUD Operations)
